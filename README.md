@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Chaosdrachin
-- 👀 Neuronal Networking aka Maschinal Learning
-- 🌱 Webdev
-- 📫 Via Email
+# Hello
 
-I want to Test this Tool for Python in Reason i am Extremly Interessted in AI and to work with.
+I am Chaosdrachin , a German Coder ^^
 
+at my Comapany i work as Web-Dev, 
+in privat i have Fun building Games with Unity, Coding ML/NN Applications
+and in my Free Time at Weekend i doin CTF-Hacking 
 
-
-<!---
-Chaosdrachin/Chaosdrachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
